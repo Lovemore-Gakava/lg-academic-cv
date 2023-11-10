@@ -102,13 +102,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?hl=en&user=3CGNySIAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Lovemore-Gakava
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://linkedin.com/in/lgakava
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,8 @@ social:
 highlight_name: true
 ---
 
-LG is 
+I've worked for Clinical Research Organizations (CROs) and Pharmaceutical companies as a Statistical Programmer and/or Statistician over the past 16 years. 
+
+I've also co-authored publications and contributed to the acquisition and analysis of data presented in various manuscripts. I've experience in using statistical tools and methodologies and Good Clinical Practices (GCPs). I’ve a broad understanding of statistical concepts, methods and models and using computer applications such as R/Shiny, SAS, QLIK and TIBCO SPOTFIRE. I’m able to develop R packages/applications to communicate complex ideas.
+
 {style="text-align: justify;"}
